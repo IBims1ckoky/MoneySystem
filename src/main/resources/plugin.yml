@@ -1,0 +1,9 @@
+name: MoneySystem
+version: 1.0
+api-version: 1.16
+author: IBims1ckoky
+main: de.maxizink.moneysystem.MoneySystem
+commands:
+  coins:
+depend:
+  - PaperServiceRegistry
